@@ -1,0 +1,14 @@
+.FlexContainer {
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: flex-start;
+    align-content: flex-start;
+    width: 20%;
+    height: 20px;
+}
+
+.FlexContainer div {
+    width: 45px;
+    height: 40px;
+    margin: 2px;
+}
